@@ -1,2 +1,9 @@
 node_modules/
 .env
+uploads/
+
+# No se suben: pruebas, documentación de Postman y migraciones locales
+test/
+postman/
+ENDPOINTS_POSTMAN.txt
+database/migraciones/
